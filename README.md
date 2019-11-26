@@ -7,5 +7,6 @@ Including:
 - redux-form
 - lodash
 - axios
+- Modal View by using React Portal
 
 It relies on a local Node server for the backend content.
